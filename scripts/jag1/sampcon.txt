@@ -1,0 +1,2 @@
+~/imp-clean/build/setup_environment.sh python ~/imp-clean/imp/modules/sampcon/pyext/src/exhaust.py -a  -n jag1 --rmfA ../model_analysis/A_models_clust1.rmf3 --rmfB ../model_analysis/B_models_clust1.rmf3  --scoreA ../model_analysis/A_models_clust1.txt   --scoreB ../model_analysis/B_models_clust1.txt -pr  -d density_jag1.txt  -m cpu_omp -c 16 -g 5.0 -gp -r 1
+

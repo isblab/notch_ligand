@@ -1,0 +1,34 @@
+|directories|
+|pdb_dir|data/pdb/|
+|fasta_dir|data/fasta/|
+
+
+|topology_dictionary|
+|molecule_name | color | fasta_fn | fasta_id | pdb_fn | chain | residue_range | pdb_offset | bead_size | em_residues_per_gaussian | rigid_body | super_rigid_body | chain_of_super_rigid_bodies | 
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |BEADS                           |N|1,19        |0      |30|0|  |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|20,139      |0      |30|0|1 |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|140,177     |0      |30|0|2 |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|178,217     |0      |30|0|3 |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|218,256     |0      |30|0|4 |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|257,294     |0      |30|0|5 |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |notch1-jag1_28-335.pdb          |A|295,489     |0      |30|0|6 |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|490,828     |0      |30|0|7 |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|829,868     |0      |30|0|8 |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|869,982     |0      |30|0|9 |0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|983,1020    |0      |30|0|10|0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|1021,1144   |0      |30|0|11|0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|1145,1182   |0      |30|0|12|0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|1183,1266   |0      |30|0|13|0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|1267,1306   |0      |30|0|14|0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|1307,1448   |0      |30|0|15|0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|1449,1592   |0      |30|0|16|0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |NECD_Notch1_N.pdb               |N|1593,1735   |0      |30|0|17|0||
+|notch1        |green  |Notch1_human.fasta|NOTCH1_HUMAN_P46531               |BEADS                           |N|1736,1756   |0      |30|0|  |0||
+|jag1          |blue   |JAG1_human.fasta  |JAG1_HUMAN_P78504                 |BEADS                           ||1,27         |0      |30|0|  |0||
+|jag1          |blue   |JAG1_human.fasta  |JAG1_HUMAN_P78504                 |notch1-jag1_28-335.pdb          |B|28,335      |0      |30|0|6 |0||
+|jag1          |blue   |JAG1_human.fasta  |JAG1_HUMAN_P78504                 |jag1_human_330-703.pdb          |A|336,449     |0      |30|0|18|0||
+|jag1          |blue   |JAG1_human.fasta  |JAG1_HUMAN_P78504                 |jag1_human_330-703.pdb          |A|450,629     |0      |30|0|19|0||
+|jag1          |blue   |JAG1_human.fasta  |JAG1_HUMAN_P78504                 |jag1_human_630-845.pdb          |A|630,742     |0      |30|0|20|0||
+|jag1          |blue   |JAG1_human.fasta  |JAG1_HUMAN_P78504                 |jag1_human_630-845.pdb          |A|743,845     |0      |30|0|21|0||
+|jag1          |blue   |JAG1_human.fasta  |JAG1_HUMAN_P78504                 |BEADS                           ||846,1067     |0      |30|0|  |0||
+|jag1          |blue   |JAG1_human.fasta  |JAG1_HUMAN_P78504                 |BEADS                           ||1068,1093    |0      |30|0|  |0||
