@@ -79,4 +79,4 @@ International License.\
 **Last known good IMP version:** [![build info](https://integrativemodeling.org/systems/35/badge.svg?branch=main)](https://integrativemodeling.org/systems/) \
 **Testable:** Yes\
 **Parallelizeable:** Yes\
-**Publications:** Submitted for publication
+**Publications:** S. Rathore, D. Gahlot, J. Castin, A. Pandey, S. Arvindekar, S. Viswanath, L. Thukral, _Multiscale simulations reveal architecture of NOTCH protein and ligand specific features_, Biophysical Journal, 124, 1-15, 2025. doi: https://doi.org/10.1016/j.bpj.2024.12.014 
